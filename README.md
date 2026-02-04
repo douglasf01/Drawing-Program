@@ -2,6 +2,8 @@
 
 A very simple drawing program created as part of course work.
 
+![](screenshot.png)
+
 # Prerequisits
 - **JDK** has to be installed.
 
